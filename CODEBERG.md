@@ -30,11 +30,11 @@ That may have sounded aggressive, but thanks for coming by still!
 - marche bien sans JavaScript ;
 - infrastucture réellement libre et ouverte ;
 - CGU et politique de confidentialité simples et légères :
-    [Codeberg][tosdr-codeberg] vs [GitHub][tosdr-github];
+    [Codeberg][tosdr-codeberg] vs [GitHub][tosdr-github] ;
 - ne met pas les clients en danger légal avec de l'algèbre linéaire :
     voir [les abonnements Copilot: “IP indemnity”
-    (indemnité face aux propriétés intellectuelles)][copilot-features];
-- [son PDG n'a harcelé ni d'employées ni d'employés][harass];
+    (indemnité face aux propriétés intellectuelles)][copilot-features] ;
+- [son PDG n'a harcelé ni d'employées ni d'employés][harass] ;
 - [n'a aucune rumeur de collaboration dans des crimes contre l'humanité][crime].
 
 ## Pourquoi pas Sourcehut ?
