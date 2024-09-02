@@ -24,8 +24,8 @@ That may have sounded aggressive, but thanks for coming by still!
 
 ## Pourquoi vouloir Codeberg ?
 
-- equivalent or better traditional Git workflow;
-- moins de fonctionnalités inutiles ;
+- rythme de travail avec Git équivalent ou meilleur ;
+- moins d'alourdissement en fonctionnalités ;
 - interface plus propre ;
 - marche bien sans JavaScript ;
 - infrastucture réellement libre et ouverte ;
