@@ -45,7 +45,7 @@ That may have sounded aggressive, but thanks for coming by still!
 
 Sinon oui, j'adorerais utiliser Sourcehut !
 
-Ça peut paraître agressif, mais merci d'être comme même passé par là !
+Ça peut paraître agressif tout ça, mais merci d'être comme même passé par là !
 
 [copilot-features]: https://github.com/features/copilot
 [crime]: https://en.wikipedia.org/wiki/GitHub#ICE_contract
