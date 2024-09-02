@@ -8,7 +8,7 @@
 - lean and mean terms of service and privacy policy:
     [Codeberg][tosdr-codeberg] vs. [GitHub][tosdr-github];
 - does not legally endanger regular users with linear algebra:
-    See [Copilot's feature plans: “IP indemnity”][copilot-features];
+    see [Copilot's feature plans: “IP indemnity”][copilot-features];
 - [CEO has not harassed employees][harass];
 - [is not allegedly assisting with crimes against humanity][crime].
 
@@ -28,11 +28,11 @@ That may have sounded aggressive, but thanks for coming by still!
 - moins de fonctionnalités inutiles ;
 - interface plus propre ;
 - marche bien sans JavaScript ;
-- infrastucture réellement libre et ouvert ;
-- CGU et politique de confidentialité simples et légères ;
+- infrastucture réellement libre et ouverte ;
+- CGU et politique de confidentialité simples et légères :
     [Codeberg][tosdr-codeberg] vs [GitHub][tosdr-github];
-- ne met pas les clients en danger légal avec de l'algèbre linéaire ;
-    Voir [les abonnements Copilot: “IP indemnity”
+- ne met pas les clients en danger légal avec de l'algèbre linéaire :
+    voir [les abonnements Copilot: “IP indemnity”
     (indemnité face aux propriétés intellectuelles)][copilot-features];
 - [son PDG n'a harcelé ni d'employées ni d'employés][harass];
 - [n'a aucune rumeur de collaboration dans des crimes contre l'humanité][crime].
