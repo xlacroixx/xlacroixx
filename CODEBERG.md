@@ -9,7 +9,7 @@
     [Codeberg][tosdr-codeberg] vs. [GitHub][tosdr-github];
 - does not legally endanger regular users with linear algebra:
     see [Copilot's feature plans: “IP indemnity”][copilot-features];
-- [Former founder has not harassed employees][harass];
+- [former founder has not harassed employees][harass];
 - [is not allegedly assisting with crimes against humanity][crime].
 
 ## Why not Sourcehut?
