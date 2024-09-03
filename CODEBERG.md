@@ -47,8 +47,15 @@ Sinon oui, j'adorerais utiliser Sourcehut !
 
 Ça peut paraître agressif tout ça, mais merci d'être comme même passé par là !
 
+[xlacroixx/xlacroixx] by [xlacroixx] is marked with [CC0 1.0][cc0]
+<img width="22" height="22" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg" alt="">
+<img width="22" height="22" src="https://mirrors.creativecommons.org/presskit/icons/zero.svg" alt="">
+
+[cc0]: https://creativecommons.org/publicdomain/zero/1.0
 [copilot-features]: https://github.com/features/copilot
 [crime]: https://en.wikipedia.org/wiki/GitHub#ICE_contract
 [harass]: https://en.wikipedia.org/wiki/GitHub#Harassment_allegations
 [tosdr-codeberg]: https://tosdr.org/en/service/3370
 [tosdr-github]: https://tosdr.org/en/service/297
+[xlacroixx]: https://github.com/xlacroixx
+[xlacroixx/xlacroixx]: https://github.com/xlacroixx/xlacroixx
