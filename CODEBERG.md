@@ -47,7 +47,11 @@ Sinon oui, j'adorerais utiliser Sourcehut !
 
 Ça peut paraître agressif tout ça, mais merci d'être comme même passé par là !
 
+---
+
 [xlacroixx/xlacroixx] by [xlacroixx] is marked with [CC0 1.0][cc0]
+
+[xlacroixx/xlacroixx] par [xlacroixx] est sous [CC0 1.0][cc0]
 
 [cc0]: https://creativecommons.org/publicdomain/zero/1.0
 [copilot-features]: https://github.com/features/copilot
