@@ -13,10 +13,11 @@ Woke warning!
 Étudiant à plein temps, donc il n'y a pas grand-chose ici.
 
 La plupart de mes projets sont sur [Codeberg] ; p'tit résumé sur pourquoi
-[ici][sum-up] (alerte au wokisme) !
+[ici][sum-up-fr_FR] (alerte au wokisme) !
 
 [![RETROUVEZ-MOI SUR Codeberg](./img/codeberg-fr_FR.svg)][codeberg-xlacroixx]
 
 [codeberg]: https://codeberg.org
 [codeberg-xlacroixx]: https://codeberg.org/xlacroixx
 [sum-up]: ./CODEBERG.md
+[sum-up-fr_FR]: ./CODEBERG.md#pourquoi-vouloir-codeberg-
