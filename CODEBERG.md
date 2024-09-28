@@ -1,4 +1,4 @@
-# Why Codeberg?
+# So why Codeberg?
 
 - equivalent or better traditional Git workflow;
 - less feature bloat;
@@ -12,7 +12,7 @@
 - [former founder has not harassed employees][harass];
 - [is not allegedly assisting with crimes against humanity][crime].
 
-## Why not Sourcehut?
+## Why not Sourcehut then?
 
 - student full-time;
 - cannot pay;
@@ -22,7 +22,7 @@ Otherwise I would love to use it!
 
 That may have sounded aggressive, but thanks for coming by still!
 
-## Pourquoi vouloir Codeberg ?
+## Alors, pourquoi vouloir Codeberg ?
 
 - rythme de travail avec Git équivalent ou meilleur ;
 - moins d'alourdissement en fonctionnalités ;
@@ -37,7 +37,7 @@ That may have sounded aggressive, but thanks for coming by still!
 - [son ancien fondateur n'a harcelé ni d'employées ni d'employés][harass] ;
 - [n'a aucune rumeur de collaboration dans des crimes contre l'humanité][crime].
 
-## Pourquoi pas Sourcehut ?
+## Pourquoi donc pas Sourcehut ?
 
 - étudiant plein temps ;
 - peut pas payer ;
