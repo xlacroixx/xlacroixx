@@ -5,7 +5,6 @@
 Student full-time, so not many things going on here.
 
 Most of my projects live on [Codeberg]; quick sum-up on why [here][sum-up].
-Woke warning!
 
 [![FIND ME ON Codeberg](./img/codeberg.svg)][codeberg-xlacroixx]
 
@@ -14,7 +13,7 @@ Woke warning!
 Étudiant à plein temps, donc il n'y a pas grand-chose ici.
 
 La plupart de mes projets sont sur [Codeberg] ; p'tit résumé sur pourquoi
-[ici][sum-up-fr_FR] (alerte au wokisme) !
+[ici][sum-up-fr_FR] !
 
 [![RETROUVEZ-MOI SUR Codeberg](./img/codeberg-fr_FR.svg)][codeberg-xlacroixx]
 
