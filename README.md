@@ -1,4 +1,5 @@
-<!-- markdownlint-disable-next-line no-trailing-punctuation -->
+<!-- markdownlint-disable no-trailing-punctuation -->
+
 # Bonjour !
 
 Student full-time, so not many things going on here.
